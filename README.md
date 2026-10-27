@@ -59,7 +59,7 @@ The full analysis, with code, figures and discussion, is in
 Requires Python 3.12.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Ahmed28phantom/steel-energy-ml-pipeline.git
 cd steel-energy-ml-pipeline
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
