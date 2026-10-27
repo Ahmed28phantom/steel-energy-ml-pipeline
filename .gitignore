@@ -1,0 +1,19 @@
+# Python environment and caches (recreate with: pip install -r requirements.txt)
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Kept private, not for publication
+# - the original study's paper (copyrighted)
+references/
+# - the written report (unpublished)
+reports/
+# - the earlier version of the notebook
+notebooks/archive/
